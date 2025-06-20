@@ -1,6 +1,6 @@
-[Boas vindas]() |
-[Tecnologias]() |
-[Contatos]()
+[Boas vindas](#bem-vindo) |
+[Tecnologias](#tecnologia-usadas) |
+[Contatos](#redes-sociais)
 
 # Bem vindo
 
