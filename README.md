@@ -4,8 +4,15 @@
 
 # Bem vindo
 
-Esse site fala um pouco da historia do queridinho de muita gente, o famoso android. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="15" alt="html5 logo"  />
-Um site criado usando somente **HTML5** e **CSS3**, praticando um pouco dos conhecimentos basicos nessas tecnologias, bem elaborado e responsivo. 
+
+Esse site fala um pouco da historia do queridinho de muita gente, o famoso android. <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="15" alt="html5 logo"  />.
+
+Um site criado usando somente **HTML5** e **CSS3**.
+
+Praticando um pouco dos conhecimentos basicos nessas tecnologias.
+
+Um site bem elaborado e responsivo. 
+
 
 ## Tecnologia usadas 
 
